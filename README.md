@@ -56,7 +56,7 @@ I’m always open to constructive feedback to improve the dashboard! Feel free t
 ## Contact
 If you’d like to discuss this project or collaborate, you can reach me at:
 - **Email**: [poochavan66@gmail.com](mailto:poochavan66@gmail.com)
-- **LinkedIn**: [Pooja Chavan](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Pooja Chavan]((https://www.linkedin.com/in/pooja-chavan-28aaaa216/))
 
 ---
 
